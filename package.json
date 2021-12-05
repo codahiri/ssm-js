@@ -1,6 +1,6 @@
 {
   "name": "super-simple-mathjs",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Simple math functions",
   "main": "index.js",
   "scripts": {
