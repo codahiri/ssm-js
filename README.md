@@ -5,11 +5,11 @@
 ## Installation:
 
 ```bash
-npm i supermathjs
+npm i super-simle-mathjs
 
 #or
 
-yarn add supermath
+yarn add super-simle-mathjs
 ```
 
 ---
