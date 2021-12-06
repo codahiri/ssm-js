@@ -32,6 +32,8 @@ module.exports.degreeTh = function degreeTh(a) {
 module.exports.evenOdd = function evenOdd(a) {
   if (a % 2 == 0) {
     return 'Even Number';
+  } else if (!!(a % 1)) {
+    return 'Float Number'
   } else {
     return 'Odd Number';
   }
