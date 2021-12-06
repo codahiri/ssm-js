@@ -1,5 +1,5 @@
 {
-  "name": "@ilosrim/super-simple-mathjs",
+  "name": "ssm-js",
   "version": "2.1.1",
   "description": "Simple math functions",
   "main": "index.js",
