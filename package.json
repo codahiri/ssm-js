@@ -1,6 +1,6 @@
 {
   "name": "ssm-js",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Super Simple Math JS Functions",
   "main": "index.js",
   "scripts": {
