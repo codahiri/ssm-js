@@ -27,3 +27,12 @@ module.exports.degreePow = function degreePow(a) {
 module.exports.degreeSqrt = function degreeSqrt(a) {
   return a ** 3
 }
+
+// find even or odd numbers
+module.exports.evenOdd = function evenOdd(a) {
+  if (a % 2 == 0) {
+    return 'Even Number';
+  } else {
+    return 'Odd Number';
+  }
+}
