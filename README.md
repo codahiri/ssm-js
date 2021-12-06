@@ -67,3 +67,12 @@ let myPlus = supermathjs.degreePow(6); // return 36
 const supermathjs = require("super-simple-mathjs");
 let myPlus = supermathjs.degreeSqrt(6); // return 216
 ```
+
+---
+
+### Evevn or odd number
+
+```javascript
+const supermathjs = require("super-simple-mathjs");
+let evenOrOdd = supermathjs.evenOdd(8); // return Even Number
+```
