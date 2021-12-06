@@ -52,20 +52,20 @@ let myPlus = supermathjs.divide(6); // return 1
 
 ---
 
-### Pow
+### Second
 
 ```javascript
 const supermathjs = require("ssm-js");
-let myPlus = supermathjs.degreePow(6); // return 36
+let myPlus = supermathjs.degreeSc(6); // return 36
 ```
 
 ---
 
-### Sqrt
+### Third
 
 ```javascript
 const supermathjs = require("ssm-js");
-let myPlus = supermathjs.degreeSqrt(6); // return 216
+let myPlus = supermathjs.degreeTh(6); // return 216
 ```
 
 ---

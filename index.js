@@ -19,12 +19,12 @@ module.exports.divide = function divide(a, b) {
 }
 
 // returns the second level of the number
-module.exports.degreePow = function degreePow(a) {
+module.exports.degreeSc = function degreeSc(a) {
   return a ** 2
 }
 
 // returns the third level of the number
-module.exports.degreeSqrt = function degreeSqrt(a) {
+module.exports.degreeTh = function degreeTh(a) {
   return a ** 3
 }
 
