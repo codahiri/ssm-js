@@ -1,14 +1,14 @@
 {
   "name": "ssm-js",
   "version": "2.1.1",
-  "description": "Simple math functions",
+  "description": "Super Simple Math JS Functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ilosrim/supermathjs.git"
+    "url": "git+ssh://git@github.com/ilosrim/ssm-js.git"
   },
   "keywords": [
     "math",
@@ -19,7 +19,7 @@
   "author": "ilosrim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ilosrim/supermathjs/issues"
+    "url": "https://github.com/ilosrim/ssm-js/issues"
   },
-  "homepage": "https://github.com/ilosrim/supermathjs#readme"
+  "homepage": "https://github.com/ilosrim/ssm-js#readme"
 }
