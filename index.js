@@ -36,3 +36,74 @@ module.exports.evenOdd = function evenOdd(a) {
     return 'Odd Number';
   }
 }
+
+// Math.abs() method
+module.exports.abs = function abs(a, b) {
+  return Math.abs(a, b);
+}
+
+// Math.sin() method
+module.exports.sin = function sin(a) {
+  return Math.sin(a * Math.PI / 180);
+}
+
+// Math.cos method
+module.exports.cos = function cos(a) {
+  return Math.cos(a * Math.PI / 180);
+}
+
+// Math.min method
+module.exports.min = function min(...args) {
+  return Math.min(...args)
+}
+
+// Math.max method
+module.exports.max = function max(...args) {
+  return Math.max(...args)
+}
+
+// Math.random method
+module.exports.random = function random() {
+  return Math.random()
+}
+
+
+// Math.round() method
+module.exports.round = function round(a) {
+  return Math.round(a);
+}
+
+// Math.ceil() method
+module.exports.ceil = function ceil(a) {
+  return Math.ceil(a);
+}
+
+// Math.floor method
+module.exports.floor = function floor(a) {
+  return Math.floor(a);
+}
+
+// Math.trunc() method
+module.exports.turnc = function turnc(a) {
+  return Math.trunc(a);
+}
+
+// Math.sign() method
+module.exports.sign = function sign(a) {
+  return Math.sign(a);
+}
+
+// Math.log method
+module.exports.log = function log(a) {
+  return Math.log(a)
+}
+
+// Math.log2 method
+module.exports.log2 = function log2(a) {
+  return Math.log2(a)
+}
+
+// Math.log method
+module.exports.log10 = function log10(a) {
+  return Math.log10(a)
+}
