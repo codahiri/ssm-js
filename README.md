@@ -70,7 +70,7 @@ let myPlus = supermathjs.degreeTh(6); // return 216
 
 ---
 
-### Evevn or odd number
+### Even or odd number
 
 ```javascript
 const supermathjs = require("ssm-js");
